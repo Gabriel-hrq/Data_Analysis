@@ -1,4 +1,4 @@
-##Variáveis utilizadas:
+-Variáveis utilizadas:
 
 ID -> Identificador do cliente
 
