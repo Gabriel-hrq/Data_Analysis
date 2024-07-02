@@ -111,3 +111,10 @@ VLRVENDIDO -> Valor total dos itens vendidos no pedido
 QTDFATURADA -> Quantidade de itens faturados
 
 VLRFATURADO -> Valor total dos itens faturados
+
+
+Erros encontrados:
+->Erro git push
+  Erro de referenciamento de branch, utilizei os comandos abaixo:
+  git log   #para ver o histórico de commits e em quais branchs eles estão
+  Percebi que tinham 2 branchs com commits diferentes, então usei git merge dev master
